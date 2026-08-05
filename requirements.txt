@@ -1,0 +1,4 @@
+python-telegram-bot
+PyMuPDF
+img2pdf
+aiohttp
